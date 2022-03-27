@@ -7,13 +7,15 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'JetBrains Mono', normal;
     font-family: 'Montserrat Alternates' normal;
+    
+    min-width: 1920px;
 }
 
 
 
 .container {
     width: 1620px;
-    margin-left: 150px;
+    /* margin-left: 150px; */
 }
 
 .header {
