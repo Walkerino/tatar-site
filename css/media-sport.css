@@ -1,0 +1,188 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'JetBrains Mono', normal;
+    font-family: 'Montserrat Alternates' normal;
+}
+
+.header {
+    height: 171px;
+}
+
+.section-head {
+    height: 838px;
+}
+
+.logo {
+    margin-left: 150px;
+    margin-top: 61px;
+    position: absolute;
+}
+
+.home {
+    display: inline-block;
+    margin-left: 368px;
+    margin-top: 105px;
+    position: relative;
+
+    width: 93px;
+    height: 33px;
+
+    font-family: 'JetBrains Mono', normal;
+    font-weight: 500;
+    font-size: 22px;
+
+    text-decoration: none;
+    color: #747474;
+}
+
+.footer-menu-rec {
+    position: absolute;
+
+    width: 77px;
+    height: 6px;
+    background-color: #45C17D;
+
+    border-radius: 38px;
+    margin-left: 376px;
+    margin-top: -12px;
+}
+
+.gymnasium {
+    display: inline-block;
+    margin-left: 60px;
+    position: relative;
+
+    width: 105px;
+    height: 33px;
+
+    font-weight: 500;
+    font-size: 22px;
+
+    text-decoration: none;
+    cursor: pointer;
+    color: #747474;
+}
+
+.achievements {
+    display: inline-block;
+    margin-left: 60px;
+    position: relative;
+
+
+    width: 132px;
+    height: 29px;
+
+    font-weight: 500;
+    font-size: 22px;
+
+    text-decoration: none;
+    cursor: pointer;
+    color: #747474;
+}
+
+.parents {
+    display: inline-block;
+    margin-left: 60px;
+    position: relative;
+
+
+    width: 119px;
+    height: 29px;
+
+    font-weight: 500;
+    font-size: 22px;
+
+    text-decoration: none;
+    cursor: pointer;
+    color: #747474;
+}
+
+.other {
+    display: inline-block;
+    margin-left: 60px;
+    position: relative;
+
+    width: 80px;
+    height: 29px;
+
+    font-weight: 600;
+    font-size: 22px;
+
+    text-decoration: none;
+    cursor: pointer;
+    color: #000;
+}
+
+.language {
+    display: inline-block;
+    margin-left: 285px;
+    position: relative;
+
+    width: 48px;
+    height: 26px;
+
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+
+    cursor: pointer;
+}
+
+.triangle_language {
+    width: 0;
+    height: 0;
+
+    border-left: 11px solid transparent;
+    border-right: 11px solid transparent;
+    border-top: 14px solid #188248;
+
+    position: relative;
+    display: inline-block;
+    margin-left: 5px;
+    border-radius: 2px;
+
+    cursor: pointer;
+}
+
+.information_btn {
+    border: 3.8px solid #188248;
+    border-radius: 20px;
+
+    margin-left: 24px;
+    padding-top: 14px;
+    padding-left: 17px;
+    padding-bottom: 15px;
+    padding-right: 17px;
+
+    font-family: 'Montserrat Alternates';
+    font-size: 20px;
+    font-weight: 500;
+    color: #188248;
+    background-color: #ffffff;
+
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+/* SECTION */
+.sport-title {
+    width: 573px;
+    height: 50px;
+
+    font-family: 'Montserrat', normal;
+    font-weight: 800;
+    font-size: 39px;
+    line-height: 50px;
+    text-align: center;
+
+    margin-top: 114px;
+    margin-left: 674px;
+}
